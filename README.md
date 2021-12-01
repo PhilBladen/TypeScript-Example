@@ -10,7 +10,7 @@ Before either using this example or creating it yourself, ensure you have the fo
 
 ## Quick start
 To get this example working as is:
- - Clone this git repository to a root folder of your choice (`git clone git@github.com:PhilBladen/TypeScript-Example.git`).
+ - Clone this git repository to a root folder of your choice (`git clone https://github.com/PhilBladen/TypeScript-Example.git`).
  - Enter the new directory `TypeScript-Example`.
  - Run `npm i` to install all the required packages. You should see that a new directory `node_modules` has been created.
  - Run `npm start` to launch the development server. The application webpack should automatically open at `localhost:8080`.
